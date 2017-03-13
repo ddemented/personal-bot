@@ -14,7 +14,9 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.2",
-    "express": "^4.14.0",
+    "botkit": "^0.5.1",
+    "dashbot": "^0.8.4",
+    "express": "^4.15.2",
     "request": "^2.75.0"
   }
 }
